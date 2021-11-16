@@ -1,0 +1,167 @@
+
+@media screen and (max-width:1100px){
+  .body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(40,44,52);
+    background-attachment: fixed;
+    margin-top: 0px;
+    background-attachment: fixed;
+    background-position: center;
+    position: absolute;
+  }
+
+  .hand-img{
+    height: 85vh;
+    width: 90vw;
+    background: url("./Rectangle\ 2\ \(3\).png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .div1{
+     color: white;
+     font-size: 27px;
+     margin-top: 0px;
+     text-align: center;
+     margin-top: 4vh;
+     font-weight: 300;
+     font-stretch: expanded;
+     
+  }
+
+ .div2{
+ color: white;
+ font-size: 4vw;
+ margin-top: -22px;
+ margin-left: 4vw;
+ font-weight: 300;
+ 
+ }
+ .three-dots{
+   width: 5vw;
+   height: 5vw;
+   border-radius: 50%;
+   background: url("./3-dots.png");
+   margin-left: 92vw;
+   margin-top: -5vw;
+   background-position: center;
+   background-size: cover;
+ }
+ .div3{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  font-weight: 300;
+  margin-left: 10vw;
+ }
+
+ .x{
+  width: 30vw;
+  height: 20vh;
+  background: url("./Rectangle\ 5.png");
+  background-position: center;
+  background-size: cover;
+  margin-top: 50px;
+  margin-left: 66vw;
+ }
+ .div4{
+width: 30vw;
+height: 20vh;
+margin-top: 20px;
+background: url("./Rectangle\ 4.png");
+margin-left: 66vw;
+margin-top: 5%;
+background-position: center;
+background-size: cover;
+display: flex;
+border-radius: 10px;
+justify-content: space-evenly;
+ }
+ 
+ .div8{
+ width: 10vw;
+ height: 6vw;
+ background: url("./CC\ logo\ 1.png");
+ margin-left: 40vw;
+ margin-top:5vw;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ margin-bottom: 0px;
+ }
+
+ .mic{
+   width: 15px;
+   height: 15px;
+   border-radius: 50%;
+   background: url("./Mic\ \(1\).png");
+   background-position: center;
+   background-size: cover;
+   position: relative;
+   margin-top: 100px;
+   margin-left: 14px;
+ }
+
+ .video{
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: url("./Video\ \(1\).png");
+  background-position: center;
+  background-size: cover;
+  margin-top: 100px;
+  margin-left:-16px;
+}
+
+.y{
+  margin-top: 40px;
+  display: flex;
+  }
+
+.karaoke1{
+  width: 101px;
+  height: 75px;
+  background: url("./undraw_playing_cards_cywn\ 1.png");
+  background-position: center;
+  border-radius: 320px;
+  background-repeat: no-repeat;
+  background-color: blue;
+  margin-left:14vw ;
+  
+}
+.karaoke2{
+  width: 101px;
+  height: 75px;
+  background: url("./undraw_playing_cards_cywn\ 1.png");
+  background-position: center;
+  border-radius: 320px;
+  background-repeat: no-repeat;
+  background-color: blue;
+  margin-left: 9vw;
+  
+}
+.z{
+  display: flex;
+  justify-content: space-evenly;
+}
+.a{
+color: gold;
+}
+.b{
+color: deeppink;
+}
+.chat{
+  width: 5vw;
+  height: 5vw;
+  border-radius: 50%;
+  background: url("./chat.png");
+  margin-left: 92vw;
+  margin-top: -15vw;
+  background-position: center;
+  background-size: cover;
+}
+
+}
+ 
